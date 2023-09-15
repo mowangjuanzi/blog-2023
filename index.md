@@ -3,16 +3,12 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "魔王卷子"
+  tagline: 一个 PHPer 的技术笔记
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 博客
+      link: /blog/
 
 features:
   - title: Feature A
