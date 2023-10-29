@@ -19,8 +19,6 @@ date: 2022-12-04
 
 该函数主要是对密码进行加密。并且该函数支持的算法有 `PASSWORD_DEFAULT`、`PASSWORD_BCRYPT`、`PASSWORD_ARGON2I` 和 `PASSWORD_ARGON2ID`。而 `PASSWORD_DEFAULT` 指的是 `PASSWORD_BCRYPT`。
 
-> Argon2 散列需要
-
 首先我们对密码进行创建散列：
 
 ```php
